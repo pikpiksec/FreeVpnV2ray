@@ -3,6 +3,7 @@
 ## 一、在Heroku安装V2ray
 
 链接：https://github.com/MillerRabins/v2ray-heroku
+直达链接：https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbclswl0827%2Fv2ray-heroku
 
 点击Deploy to Heroku，注册登录，邮箱推荐gmail邮箱，
 

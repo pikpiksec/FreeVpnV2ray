@@ -37,7 +37,7 @@
 ![image-20210509174919437](搭建教程.assets/image-20210509174919437.png)
 
 有如下页面，将Script内容清空，填入以下内容，将其中域名替换成https://**demo**/，并将https:// 与最后面的 / 去掉，不要有多的空格，如图。
-'''Script'''
+```
 addEventListener(
 	"fetch",event => {
 		let url=new URL(event.request.url);
@@ -48,7 +48,7 @@ addEventListener(
 		)
 	}
 )
-'''
+```
 
 ![image-20210509175322259](搭建教程.assets/image-20210509175322259.png)
 
